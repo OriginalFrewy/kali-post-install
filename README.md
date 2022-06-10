@@ -3,6 +3,7 @@ Kali Linux Post-Install
 [![Active Development](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
 
 ZSH script that updates the system and installs some tools not included in the default installation.
+Requires restart post installation of all tools.
 
 Installs the following:
 * APK Tool
